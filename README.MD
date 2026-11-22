@@ -1,6 +1,14 @@
 PDF Merger App
 A simple, user‑friendly Python application that merges multiple PDF files into a single PDF, automatically sorts them alphabetically, and inserts bookmarks for each merged file.
 
+## Run on Windows
+
+Double-click `run_app.bat` or run it from a terminal:
+
+```bat
+run_app.bat
+```
+
 🚀 Features
 Add individual PDF files through the UI
 
